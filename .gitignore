@@ -1,0 +1,8 @@
+.env
+.dev.vars
+*.log
+session-history.json
+last-elevenlabs-error.json
+Reference/*.zip
+node_modules/
+.wrangler/

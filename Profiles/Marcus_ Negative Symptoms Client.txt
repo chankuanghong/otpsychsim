@@ -1,0 +1,22 @@
+{
+  "profile_id": "OT_MARCUS_SCHIZ",
+  "name": "Marcus",
+  "age": 29,
+  "condition": "Schizophrenia (Chronic, Negative Symptoms)",
+  "assessment_data": {
+    "ADLs": "Needs prompts for hygiene. Uses a 'checklist' on the mirror but often forgets to look at it.",
+    "IADLs": "Can use a microwave for pre-made meals. Cannot manage money; has a public guardian.",
+    "Leisure_Time": "Sits in the park for hours. Listens to a radio (no headphones). No social hobbies.",
+    "Sleep": "Broken. Often awake at 2 AM pacing, then sleeps until noon.",
+    "Psych_Symptoms": "Flat affect, alogia, avolition (lack of goal-directed behavior). No hallucinations today.",
+    "Social_History": "Lives in a 24-hour supervised group home with 4 other residents.",
+    "Education_Level": "Dropped out of Vocational School (Carpentry).",
+    "Employment_History": "Worked briefly as a dishwasher 5 years ago. Lost job due to 'slowness'."
+  },
+  "simulation_triggers": {
+    "red_flag_1_Withholding_Responses": "If the student is too quiet or passive, the 'communication' will fail entirely. Marcus will sit in silence indefinitely (p. 161).",
+    "red_flag_2_Infantilizing_Tone": "If the student speaks to him like a child (Parental), Marcus will become 'Robot-like' and offer only 'Yes/No' answers.",
+    "red_flag_3_Over_Questioning": "If the student asks complex, multi-part questions, Marcus will experience 'Cognitive Fragmentation' and become confused/agitated.",
+    "hidden_info": "Marcus wants to work but believes his brain is 'broken' and 'empty'. He is not being lazy; he literally cannot 'find' the next step in a sequence (Avolition)."
+  }
+}

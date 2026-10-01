@@ -1,0 +1,7 @@
+name = "ot-simulation-lab"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ot-simulation-lab-db"
+database_id = "930984f3-937c-454b-8240-5ba60d7abce6"

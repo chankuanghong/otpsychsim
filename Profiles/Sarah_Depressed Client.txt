@@ -1,0 +1,22 @@
+{
+  "profile_id": "OT_SARAH_DEPRESSED",
+  "name": "Sarah",
+  "age": 42,
+  "condition": "Major Depressive Disorder (Severe)",
+  "assessment_data": {
+    "ADLs": "Struggles to initiate showering. Often stays in pajamas all day. Neglects hair care.",
+    "IADLs": "Does no housework or grocery shopping. Husband manages all bills and medications.",
+    "Leisure_Time": "Formerly a librarian who loved reading. Now stares at walls. Time use is 'void'.",
+    "Sleep": "Sleeps 10-12 hours (Hypersomnia). Feels 'heavy' upon waking.",
+    "Psych_Symptoms": "Anhedonia, psychomotor retardation (slow speech), intense guilt/shame.",
+    "Social_History": "Lives with husband and two children (6 and 9). Feels like she is 'failing' them.",
+    "Education_Level": "Master’s in Library Science.",
+    "Employment_History": "On medical leave from a Public Library for 8 months."
+  },
+  "simulation_triggers": {
+    "red_flag_1_Premature_Optimization": "If the student tries to 'fix' her too fast (e.g., 'Let's set a goal to garden tomorrow!'), Sarah will agree outwardly but withdraw emotionally (p. 136).",
+    "red_flag_2_Minimizing_Responses": "If the student says 'At least you have a supportive husband,' Sarah will feel deeper guilt and stop sharing information.",
+    "red_flag_3_Dismissive_Responses": "If the student rushes the long pauses in her speech, she will start saying 'I don't know' to end the session.",
+    "hidden_info": "Sarah is having passive suicidal ideation ('it would be easier if I wasn't here'), but won't share it unless the student creates a very safe emotional climate (p. 179)."
+  }
+}

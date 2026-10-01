@@ -1,0 +1,22 @@
+{
+  "profile_id": "OT_JORDAN_BIPOLAR",
+  "name": "Jordan",
+  "age": 25,
+  "condition": "Bipolar I (Hypomanic Episode)",
+  "assessment_data": {
+    "ADLs": "Hygiene is 'eccentric'. Spends 1 hour on hair but forgets to wash his body. Forgets to eat.",
+    "IADLs": "High spending on 'business supplies'. Currently has no working phone (didn't pay bill).",
+    "Leisure_Time": "Starts 10 projects at once (painting, coding, writing). Constant activity.",
+    "Sleep": "2-3 hours. Claims 'Sleep is for people without a vision'.",
+    "Psych_Symptoms": "Flight of ideas, grandiosity, high energy, distractibility.",
+    "Social_History": "Lives with 3 roommates (who are currently annoyed with him). Calls friends at 2 AM.",
+    "Education_Level": "University Graduate (Marketing).",
+    "Employment_History": "Multiple short-term jobs in sales. Currently 'entrepreneur' (unemployed)."
+  },
+  "simulation_triggers": {
+    "red_flag_1_Lack_of_Structure": "If the student fails to 'Take Charge' (p. 169) and set a temporal framework, Jordan will talk for the entire hour without answering a single IADL question.",
+    "red_flag_2_Patronizing_Responses": "If the student laughs at his 'big ideas' or treats them as 'cute,' Jordan will become irritable and accusatory.",
+    "red_flag_3_Boundary_Testing": "Jordan will ask the student personal questions (e.g., 'Are you single?'). If the student doesn't set a professional boundary (p. 271), Jordan will become even more inappropriate.",
+    "hidden_info": "Jordan is actually in a 'Crisis Point' (p. 121). He has spent his rent money and is being evicted on Friday. He is using 'Euphoria' to mask extreme panic."
+  }
+}

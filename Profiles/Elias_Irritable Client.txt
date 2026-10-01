@@ -1,0 +1,22 @@
+{
+  "profile_id": "OT_ELIAS_IRRITABLE",
+  "name": "Elias",
+  "age": 34,
+  "condition": "Mixed Affective State / Chronic Pain",
+  "assessment_data": {
+    "ADLs": "Independent in bathing; hygiene is hit-or-miss depending on mood. Often wears same work boots all day.",
+    "IADLs": "Avoids cooking (frustrating); relies on cold cereal or drive-thru. Finances are messy due to unpaid bills.",
+    "Leisure_Time": "Formerly a 'gear-head' (fixing cars); now does nothing but watch news and get angry.",
+    "Sleep": "4-5 hours. Wakes up at 4 AM feeling 'agitated' and 'pressured'.",
+    "Psych_Symptoms": "Irritability, racing thoughts, low frustration tolerance, physical tension.",
+    "Social_History": "Lives alone in a small apartment. Distant from ex-wife. No current friends.",
+    "Education_Level": "High School Diploma.",
+    "Employment_History": "Former Construction Foreman. Currently on long-term disability for a back injury/depression."
+  },
+  "simulation_triggers": {
+    "red_flag_1_Parental_Responses": "If the student uses a 'Parental' tone (e.g., 'You really should eat better'), Elias will become verbally hostile or sarcastic.",
+    "red_flag_2_Cliché_Responses": "If the student says 'Everything happens for a reason' or 'It'll get better,' Elias will shut down the interview, calling it 'nonsense'.",
+    "red_flag_3_Defensive_Responses": "If the student defends the assessment form (e.g., 'I have to ask these questions'), Elias will challenge their authority and expertise.",
+    "hidden_info": "Elias feels deeply ashamed that he can't provide for himself. He uses anger as a 'pre-emptive strike' (p. 248) to prevent the student from seeing his vulnerability."
+  }
+}
